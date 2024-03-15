@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://lknier.github.io/C_A_S/manifests/manifest.json",
     "label" : "Basel, Pharmaziemuseum der Universität Basel, Cod. H52"
+  }, {
+    "@type" : null,
+    "@id" : "https://lknier.github.io/C_A_S/manifests/info.json",
+    "label" : null
   } ]
 }
