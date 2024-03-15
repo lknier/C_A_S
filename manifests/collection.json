@@ -1,0 +1,13 @@
+{
+  "id" : "https://lknier.github.io/C_A_S/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in lknier/C_A_S project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://lknier.github.io/C_A_S/manifests/manifest.json",
+    "label" : "Basel, Pharmaziemuseum der Universität Basel, Cod. H52"
+  } ]
+}
